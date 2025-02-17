@@ -6,7 +6,6 @@ The dataset provided is related to Bank loan lending various types of loans to u
 #### When a customer applies for a loan, the bank faces two risks:
 - 	If the applicant can repay the loan but is not approved, the company loses business.
 - 	If the applicant cannot repay the loan and is approved, the company faces a financial loss.
-` `
 
 As a data analyst at a finance company that specializes in lending various types of loans to urban customers. The bank/company faces a challenge: some customers who don't have a sufficient credit history take advantage of this and default on their loans. The task is to use Exploratory Data Analysis (EDA) to analyze patterns in the data and ensure that capable applicants are not rejected.
 
@@ -15,7 +14,7 @@ As a data analyst at a finance company that specializes in lending various types
 - B. Identify Outliers in the Dataset: Detect and identify outliers in the dataset
 - C. Analyze Data Imbalance: Determine if there is data imbalance in the loan application dataset and calculate the ratio of data imbalance.
 - D. Perform Univariate, Segmented Univariate, and Bivariate Analysis: Perform univariate analysis to understand the distribution of individual variables, segmented univariate analysis to compare variable distributions for different scenarios, and bivariate analysis to explore relationships between variables and the target variables.
-- E. Identify Top Correlations for Different Scenarios: Segment the dataset based on different scenarios and find correlations for each segmented.\
+- E. Identify Top Correlations for Different Scenarios: Segment the dataset based on different scenarios and find correlations for each segmented.
 - F. Prepare a comprehensive report that consolidates all the insights and can be shared with the team.
 
 ## Important info:
@@ -36,7 +35,7 @@ Kindly ensure this file is thoroughly reviewed, as it holds critical information
 
 - 'MAIN_Analysis_Report_The_Art_of_Lending_Loans.pdf':
 
-Is a  consolidated report outlining the approach and methodology used throughout the project.
+Is a consolidated report outlining the approach and methodology used throughout the project.
 
 Details how each objective was successfully achieved and the steps taken to reach those outcomes.
 
@@ -44,6 +43,12 @@ Includes key insights, challenges faced, and recommendations for future improvem
 
 Please ensure this document is carefully reviewed, as it summarizes the overall approach and results of the project.
 
+## Insights & Recommendations:
+- Revolving loans are more prudent and non-defaulting in nature. Hence, banks must focus in distributing revolving loans among the clients.
+- Male clients exhibit a higher tendency to default than female clients.
+- As the age increases the defaulters of loan decreases, Banks must be careful when disbursing loan to clients having lower income level and with younger clientele.
+- It is advisable to bank that it concentrates more on higher experienced (employment in years) individuals to disburse loan. As they tend to have least defaulters.
+- Banks should consider education of client before disbursing the loan because clients having good education have defaulted the least whereas lower secondary/ secondary special clients have defaulted the most.
 
         
 ## A Glimpse of Some Visuals Featured in the Report:
