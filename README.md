@@ -19,10 +19,10 @@ As a data analyst at a finance company that specializes in lending various types
 - F. Prepare a comprehensive report that consolidates all the insights and can be shared with the team.
 
 ## Important info:
-A Business_Req_Docx_BRD outlines the essential objectives, scope, and detailed requirements of a project. It defines both functional and non-functional requirements to ensure the solution meets the business needs. The document also identifies project constraints, assumptions, and suggestions, providing a clear roadmap for successful project execution. 
+A Business_Req_Docx_BRD outlines the essential objectives, scope, and detailed requirements of a project. It defines both functional and non-functional requirements to ensure the solution meets the business needs. The document also identifies project constraints and suggestions, providing a clear roadmap for successful project execution. 
 
-Additionally, Important_Notes.docx includes description about the files 'application_data.csv' which is now 'MAIN_The_Art_of_Lending_Loans_Applications_data' and columns_description.csv: Describes the columns present in the other datasets, explaining what each column represents.
-Important_Notes.docx also includes Important Hypothesis about Demographic Factors, Loan Characteristics, Historical Data & Behavior, External Factors & Creditworthiness etc.
+Additionally, Important_Notes.docx includes description about the files 'application_data.csv' which is NOW 'MAIN_The_Art_of_Lending_Loans_Applications_data.xlsb' and 'columns_description.csv' describes the columns present in the dataset, explaining what each column represents.
+'Important_Notes.docx' also includes Important Hypothesis about Demographic Factors, Loan Characteristics, Historical Data & Behavior, External Factors & Creditworthiness etc.
 These hypotheses, rooted in the project's context, can guide the exploratory data analysis process. They can be validated or refuted using the datasets provided, which will offer insights into the factors influencing payment difficulties.
 
 ## Outcome:
