@@ -10,8 +10,8 @@ The dataset provided is related to Bank loan lending various types of loans to u
 As a data analyst at a finance company that specializes in lending various types of loans to urban customers. The bank/company faces a challenge: some customers who don't have a sufficient credit history take advantage of this and default on their loans. The task is to use Exploratory Data Analysis (EDA) to analyze patterns in the data and ensure that capable applicants are not rejected.
 
 ## Objectives
-- A. Identify Missing Data and Deal with it Appropriately: Identify the missing data in the dataset and decide on an appropriate method to deal with it. 
-- B. Identify Outliers in the Dataset: Detect and identify outliers in the dataset
+- A. Identify the missing data in the dataset and decide on an appropriate method to deal with it. 
+- B. Detect, Identify and Remove outliers in the dataset
 - C. Analyze Data Imbalance: Determine if there is data imbalance in the loan application dataset and calculate the ratio of data imbalance.
 - D. Perform Univariate, Segmented Univariate, and Bivariate Analysis: Perform univariate analysis to understand the distribution of individual variables, segmented univariate analysis to compare variable distributions for different scenarios, and bivariate analysis to explore relationships between variables and the target variables.
 - E. Identify Top Correlations for Different Scenarios: Segment the dataset based on different scenarios and find correlations for each segmented.
