@@ -58,7 +58,7 @@ Please ensure this document is carefully reviewed, as it summarizes the overall 
 
 -Data Distribution over types of Loans:
 
-![Image](https://github.com/user-attachments/assets/ee3a1708-fcfc-48c7-ab26-b3e456ff55bb)
+![Image](https://github.com/user-attachments/assets/5e10babd-24e5-4fef-9ebb-52bb372dd230)
 
 - Statistical Descriptive Inputs Undertaken: 
 
