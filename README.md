@@ -10,7 +10,7 @@ The dataset provided is related to Bank loan lending various types of loans to u
 
 As a data analyst at a finance company that specializes in lending various types of loans to urban customers. The bank/company faces a challenge: some customers who don't have a sufficient credit history take advantage of this and default on their loans. The task is to use Exploratory Data Analysis (EDA) to analyze patterns in the data and ensure that capable applicants are not rejected.
 
-### Objectives
+## Objectives
 - A. Identify Missing Data and Deal with it Appropriately: Identify the missing data in the dataset and decide on an appropriate method to deal with it. 
 - B. Identify Outliers in the Dataset: Detect and identify outliers in the dataset
 - C. Analyze Data Imbalance: Determine if there is data imbalance in the loan application dataset and calculate the ratio of data imbalance.
@@ -18,14 +18,14 @@ As a data analyst at a finance company that specializes in lending various types
 - E. Identify Top Correlations for Different Scenarios: Segment the dataset based on different scenarios and find correlations for each segmented.\
 - F. Prepare a comprehensive report that consolidates all the insights and can be shared with the team.
 
-### Important info:
+## Important info:
 A Business_Req_Docx_BRD outlines the essential objectives, scope, and detailed requirements of a project. It defines both functional and non-functional requirements to ensure the solution meets the business needs. The document also identifies project constraints, assumptions, and suggestions, providing a clear roadmap for successful project execution. 
 
 Additionally, Important_Notes.docx includes description about the files 'application_data.csv' which is now 'MAIN_The_Art_of_Lending_Loans_Applications_data' and columns_description.csv: Describes the columns present in the other datasets, explaining what each column represents.
 Important_Notes.docx also includes Important Hypothesis about Demographic Factors, Loan Characteristics, Historical Data & Behavior, External Factors & Creditworthiness etc.
 These hypotheses, rooted in the project's context, can guide the exploratory data analysis process. They can be validated or refuted using the datasets provided, which will offer insights into the factors influencing payment difficulties.
 
-### Outcome:
+## Outcome:
 - 'MAIN_The_Art_of_Lending_Loans_Applications_data.xlsb':
 
 Contains multiple worksheets, each offering a detailed breakdown of the objects and analysis with key-takeaways related to the entire project.
@@ -46,7 +46,7 @@ Please ensure this document is carefully reviewed, as it summarizes the overall 
 
 
         
-### A Glimpse of Some Visuals Featured in the Report:
+## A Glimpse of Some Visuals Featured in the Report:
 
 - Correlations among the attributes:
 
