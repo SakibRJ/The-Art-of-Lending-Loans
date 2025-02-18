@@ -1,4 +1,4 @@
-# The-Art-of-Lending-Loans-A-Bank-Loan-Case-Study
+# The Art of Lending Loans: A Bank Loan Case Study
 
 ## Project Description:
 The dataset provided is related to Bank loan lending various types of loans to urban customers. The aim of this report is to simply use Exploratory Data Analysis (EDA) to analyse patterns in the data and ensure that capable applicants are not rejected. The impact of this analysis are significant for Banks, lenders, NBFCs who want to understand how customer attributes and loan attributes influence the likelihood of default, based on these insights informed decisions in their future disbursement is to be taken into action. Utilizing a dataset that includes records of previous clients, this project will aim to address specific questions designed to improve the decision making and effectiveness of the disbursement and its procedures. The ultimate goal is to provide data-driven recommendations that contribute to better outcomes for the bankers to generate maximum revenue for the Bank.
