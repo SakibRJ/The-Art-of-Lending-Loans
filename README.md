@@ -51,7 +51,7 @@ Please ensure this document is carefully reviewed, as it summarizes the overall 
 - Banks should consider education of client before disbursing the loan because clients having good education have defaulted the least whereas lower secondary/ secondary special clients have defaulted the most.
 
         
-## A Glimpse of Some Visuals Featured in the Report:
+## A Glimpse of Visuals Featured in the Report:
 
 - Correlations among the attributes:
 
